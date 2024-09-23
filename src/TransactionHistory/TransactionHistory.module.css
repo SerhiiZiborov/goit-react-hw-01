@@ -1,0 +1,40 @@
+.table {
+  border-collapse: collapse;
+  margin-top: 50px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid black;
+  padding: 0;
+}
+
+.thead {
+  background-color: #333131;
+  color: white;
+  width: 100%;
+}
+
+.tr {
+  width: 100%;
+}
+
+.th,
+.td,
+.tdC {
+  padding: 8px;
+
+  padding: 0 50px;
+  border: 1px solid black;
+}
+
+.tdC {
+  text-align: center;
+}
+
+/* .tdType {
+  text-align-last: left;
+  text-align: center;
+} */
+
+.tr:nth-child(even) {
+  background-color: rgb(175, 173, 173);
+}
