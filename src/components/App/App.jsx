@@ -1,5 +1,5 @@
 import Profile from "../Profile/Profile";
-import FriendList from "../FriendListItem/FriendListItem";
+import FriendList from "../FriendList/FriendList";
 import TransactionHistory from "../TransactionHistory/TransactionHistory";
 
 import "./App.css";
